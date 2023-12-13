@@ -8,5 +8,7 @@ namespace ntthuy.models
 {
     internal class User
     {
+        public int Mssv {  get; set; }
+        public int ID { get; set; }
     }
 }
