@@ -52,7 +52,10 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="models\Lecture.cs" />
+=======
+>>>>>>> V2
     <Compile Include="models\Student.cs" />
     <Compile Include="models\User.cs" />
     <Compile Include="Program.cs" />
